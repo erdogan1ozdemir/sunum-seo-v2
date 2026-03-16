@@ -1,0 +1,56 @@
+{
+  "brand": "VitrA",
+  "domain": "vitra.com.tr",
+  "brand_regex": "vitra|vitrA|VitrA",
+  "ga4_property_id": "properties/XXXXXXXXX",
+  "seomonitor_campaign_id": "XXXXX",
+  "gsc_site_url": "sc-domain:vitra.com.tr",
+  "location_code": 2792,
+  "language_code": "tr",
+  "keywords": {
+    "brand": ["vitra"],
+    "brand_category_note": "SEOmonitor grubundan veya CSV'den yüklenir",
+    "nonbrand_note": "SEOmonitor grubundan veya CSV'den yüklenir"
+  },
+  "segments": [
+    "Armatürler",
+    "Banyo Aksesuarları",
+    "Banyo Mobilyaları",
+    "Duşlar",
+    "Karo Seramik Ürünleri",
+    "Rezervuarlar",
+    "Vitrifiyeler",
+    "Yıkanma Alanları"
+  ],
+  "competitors": [
+    {"name": "trendyol", "keyword": "trendyol"},
+    {"name": "hepsiburada", "keyword": "hepsiburada"},
+    {"name": "ikea", "keyword": "ikea"},
+    {"name": "koçtaş", "keyword": "koçtaş"},
+    {"name": "bauhaus", "keyword": "bauhaus"},
+    {"name": "kale", "keyword": "kale"},
+    {"name": "creavit", "keyword": "creavit"},
+    {"name": "artema", "keyword": "artema"},
+    {"name": "geberit", "keyword": "geberit"},
+    {"name": "grohe", "keyword": "grohe"}
+  ],
+  "competitor_domains": [
+    "trendyol.com",
+    "hepsiburada.com",
+    "ikea.com.tr",
+    "koctas.com.tr",
+    "bauhaus.com.tr",
+    "kale.com.tr",
+    "creavit.com.tr",
+    "artema.com.tr",
+    "geberit.com.tr",
+    "grohe.com.tr"
+  ],
+  "ai_referral_sources": [
+    "chatgpt.com",
+    "gemini.google.com",
+    "perplexity.ai",
+    "copilot.microsoft.com",
+    "claude.ai"
+  ]
+}
